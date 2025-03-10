@@ -1018,7 +1018,7 @@
     font-size: 18px;
   }
   .contact .form-box{
-    height: 100vh;
+    height: auto;
     overflow-y: hidden !important;
     margin-bottom: 30px;
   }
